@@ -1,1 +1,11 @@
 trying to create and merge branches!
+I just wanna try this out!
+
+I have created a new branch
+>> git branches       # to see what branches i already have
+>> git branch crazy_experiment      # creates a new branch called crazy_exp
+>> git checkout crazy_experiment    # working on crazy_exp branch
+
+
+>> git checkout -b crazy_experiment   # this is a short hand for the last two steps!
+
