@@ -1,5 +1,5 @@
-trying to create and merge branches!
-I just wanna try this out!
+# trying to _________ branches!
+
 
 I have created a new branch
 >> git branches       # to see what branches i already have
